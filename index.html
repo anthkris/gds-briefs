@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Random Project Ideas for Instructional Designers">
+    <meta name="author" content="K. Anthony">
+
+    <title>Go Design Something</title>
+
+    <!-- Bootstrap Core CSS -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Theme CSS -->
+    <link href="css/gds-site.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Palanquin+Dark:400,700|Palanquin:400,700" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+  <div id="theApp" ng-app="designBrief">
+    <!-- Navigation -->
+    <nav ng-controller="CollapseCtrl" class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" ng-click="isNavCollapsed = !isNavCollapsed">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Go Design Something</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" uib-collapse="isNavCollapsed">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Briefs</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="https://goo.gl/forms/8OjBfa4IOn4Uy7TD2">Suggest a Brief</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header color-red">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1>GO DESIGN SOMETHING</h1>
+                        <hr class="small">
+                        <span class="subheading">Project Ideas for Instructional Designers</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="feature">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" ng-controller="BriefCtrl">
+
+              <div>
+                <briefs></briefs>
+              </div>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="http://twitter.com/anthkris" class="link-color-red footer-links">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://dearinstructionaldesigner.com" class="link-color-red footer-links">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-podcast fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://gumroad.com/l/eOwj" class="link-color-red footer-links">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-book fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; Go Design Something 2017</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script type="text/ng-template" id="briefs.html">
+      <div class="design-brief">
+        <h2 class="brief-title">
+            {{designBrief.title}}
+        </h2>
+        <h3 class="post-subtitle">
+            Audience: {{designBrief.audience}}
+        </h3>
+        <p>
+          <button id="getAnother" class="get-another color-red" ng-click='getBriefs()'>
+            <i class="fa fa-refresh" aria-hidden="true"></i> Gimme Another
+          </button>
+          <button id="twitterButton" class="color-red get-another">
+            <a class="twitter-share-button" href="https://twitter.com/share?url=https%3A%2F%2Fgodesignsomething.co&hashtags=GDSChallenge&text=Check out my latest GDS project:" target="_blank">
+              <i class="fa fa-twitter" aria-hidden="true"></i> Tweet it Out
+            </a>
+        </button>
+        </p>
+        <h3 class="brief-subtitle">
+            <i class="fa fa-briefcase" aria-hidden="true"></i> Brief
+        </h3>
+        <p ng-bind-html="designBrief.brief | trust">
+        </p>
+        <h3 class="brief-subtitle">
+            <i class="fa fa-archive" aria-hidden="true"></i> Deliverables
+        </h3>
+          <ul class="deliverables">
+            <li ng-repeat="deliverable in designBrief.deliverables">
+              {{deliverable}}
+            </li>
+          </ul>
+        </p>
+        <h3 class="brief-subtitle">
+            <i class="fa fa-lightbulb-o" aria-hidden="true"></i> Inspiration
+        </h3>
+        <ul>
+          <li ng-repeat="link in designBrief.inspiration" class="" inspire>
+            <a href="{{link}}" class="dont-break-out link-color-red" target="_blank">{{link}}</a>
+          </li>
+        </ul>
+      </div>
+    </script>
+
+    <!-- Angular 1.5 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+
+    <!-- Angular Animate -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-animate.js"></script>
+
+    <!-- Angular UI-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.3.1/ui-bootstrap.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/gds-site.min.js"></script>
+  </div>
+</body>
+
+</html>

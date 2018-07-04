@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Random Project Ideas for Instructional Designers">
+    <meta name="author" content="K. Anthony">
+
+    <title>Go Design Something</title>
+
+    <!-- Bootstrap Core CSS -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Theme CSS -->
+    <link href="css/gds-site.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Palanquin+Dark:400,700|Palanquin:400,700" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+  <div id="theApp" ng-app="designBrief">
+    <!-- Navigation -->
+    <nav ng-controller="CollapseCtrl" class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" ng-click="isNavCollapsed = !isNavCollapsed">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Go Design Something</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" uib-collapse="isNavCollapsed">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">Briefs</a>
+                    </li>
+                    <li>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="https://goo.gl/forms/8OjBfa4IOn4Uy7TD2">Suggest a Brief</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header color-red">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1>GO DESIGN SOMETHING</h1>
+                        <hr class="small">
+                        <span class="subheading">Project Ideas for Instructional Designers</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="feature">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <h2 class="brief-title">
+                About GDS
+              </h2>
+              <p>In 2016, I declared a year of the project.</p>
+              <p>As a part of that, I wrote a little ebook called <a href="https://gumroad.com/l/eOwj" class="link-color-red">Go Design
+                Something</a> about making a really great portfolio as an instructional designer (I'll be redesigning it pretty soon)
+                and I've been thinking for a while about what to do with this site.</p>
+              <p>I've had the privilege to speak with several instructional design newbies about breaking into ID.
+              And, for a while now, I've had a passion for helping other newbie instructional designers practice their craft.
+              So, I decided that a perfect companion arc to my current projects and practice would be a website that generated project ideas.</p>
+              <p>If you've wanted to get started on a project but you couldn't figure out how to get started, this is the site to get you going.</p>
+              <p>If you've got a short brief idea, you can can <a href="https://goo.gl/forms/8OjBfa4IOn4Uy7TD2" class="link-color-red">submit it to share with others.</a></p>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <ul class="list-inline text-center">
+                        <li>
+                            <a href="http://twitter.com/anthkris" class="link-color-red footer-links">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://dearinstructionaldesigner.com" class="link-color-red footer-links">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-podcast fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://gumroad.com/l/eOwj" class="link-color-red footer-links">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-book fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted">Copyright &copy; Go Design Something 2017</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Angular 1.5 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+
+    <!-- Angular Animate -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-animate.js"></script>
+
+    <!-- Angular UI-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.3.1/ui-bootstrap.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/gds-site.min.js"></script>
+  </div>
+</body>
+
+</html>
