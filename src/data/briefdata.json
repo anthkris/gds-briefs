@@ -1,0 +1,274 @@
+{
+    "briefs": [{
+      "title": "Curate/Create a Course on Working from Home",
+      "audience": "Knowledge Workers affected by Coronavirus",
+      "brief": "<p>Like many organizations in Winter/Spring 2020, your organization was affected by COVID-19. Many people, used to coming into the office everyday, now need to work from home while their spouses, partners, children, and other residents are also home all day. There's a lot of concern and stress but also a need from the business to keep working.</p><p><b>Design a learning experience</b> to help knowledge workers of various tenures and levels work through how they can effectively work from home during this time.</p>",
+      "deliverables": {
+        "deliverable1": "Learning experience about working from home (you decide what form it takes)"
+      },
+      "inspiration": {
+        "link1": "https://tmyd.mykajabi.com/howtoworkfromhome",
+        "link2": "https://learning.linkedin.com/blog/productivity-tips/new-to-working-remotely--these-resources-can-help",
+        "link3": "https://www.harvardbusiness.org/resources-effectively-lead-amid-covid-19/"
+      }
+    },
+    {
+      "title": "Create a Camera Interactive",
+      "audience": "Photography Beginners, Law Enforcement Professionals",
+      "brief": "<p>Your organization provides training opportunities to both police recruits and seasoned professionals. You’ve identified the need for an online course in the basics of photography as a prerequisite to a face-to-face experience on crime scene photography.</p><p><b>Design a basic camera simulation</b> to be used as a part of the experience on working with a DSLR camera’s aperture, what it does and why to use it.</p>",
+      "deliverables": {
+        "deliverable1": "DLSR Camera Simulation"
+      },
+      "inspiration": {
+        "link1": "http://photography-mapped.com/interact.html",
+        "link2": "http://camerasim.com/apps/original-camerasim/web//"
+      }
+    },
+    {
+      "title": "Design an Editable Accordion Interaction",
+      "audience": "Faculty and Graduate Assistants",
+      "brief": "<p>The University is migrating a series of courses for a school from an external LMS to the internal one. Faculty were unhappy with several administrative issues in the other LMS (such as difficulty enrolling large numbers of students) as well as the inability to make course updates themselves. One snag that you are hitting in the migration is that the internal LMS lacks many of the interactivity features that the external LMS had, such as content accordions to chunk onscreen information.</p><p><b>Design an interactive template</b> for a content accordion and notes on how to use it, keeping in mind that faculty want to be empowered to edit the contents by themselves, but aren't interested in anything complicated.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive accordion template (in elearning software or code)",
+        "deliverable2": "One pager training aid on using and updating the template"
+      },
+      "inspiration": {
+        "link1": "https://codemyui.com/category/accordion-tabs/",
+        "link2": "https://community.articulate.com/download/storyline-2-circular-accordion"
+      }
+    },
+    {
+      "title": "Develop an Email Onboarding Series",
+      "audience": "New elearning professional hires",
+      "brief": "<p>Your organization is hiring a couple of junior elearning professionals. As a part of an initiative to make your team's onboarding of new teammates easier and faster, you are design a brief email onboarding series for the new hires to acclimate them to their new roles.</p><p><b>Develop a series of emails to help onboard a new hire</b> to an elearning specialist role. Topics might include: meet with the HR professional to talk about benefits and pay, meet the team, tools we use, and review our previous work.</p>",
+      "deliverables": {
+        "deliverable1": "Mock up of email design",
+        "deliverable2": "Onboarding series topic plan with schedule for email campaign"
+      },
+      "inspiration": {
+        "link1": "https://elearningindustry.com/30-great-onboarding-elearning-resources",
+        "link2": "http://thenuschool.com/onboarding-clients/",
+        "link3": "http://www.goodemailcopy.com/"
+      }
+    },
+    {
+      "title": "Develop an Educational Video or Interactive on Reading Your Bill",
+      "audience": "Utilility company customers of varying ages, education levels, and economic status",
+      "brief": "<p>The energy company you work for wants to help new customers be less confused by their first month's bill. Your team has decided to try out interactive, personalized video to be sent to new customers as their first bill goes out.</p><p><b>Create a customer-facing video/interactive template on how to read their energy utility bill.</b> To be sent via email to all new customers of the energy company as a part of a personalized onboarding strategy and kept on the website for future reference.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive video example or mockup",
+        "deliverable2": "Documentation on video template use and updating"
+      },
+      "inspiration": {
+        "link1": "https://www.youtube.com/watch?v=qyGK6rBfmnY",
+        "link2": "https://www.championenergyservices.com/my-account/how-to-read-your-bill/",
+        "link3": "http://www.jellyvision.com/work/jea/"
+      }
+    },
+    {
+      "title": "Develop an Engaging Mini Game on Email Safety",
+      "audience": "All insurance company employees",
+      "brief": "<p>With all of the negative press around data breaches, your company is doubling down on computer safety. You have a current course but analytics show that users aren't engaged.</p><p><b>Create a short game</b> to assess learner ability to identify phising emails and handle them appropriately. To be used for the HR/Compliance department of a large insurance company. All office workers will have to pass this simulation as a part of their continued employment, so the game should test user understanding.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive game/simulation"
+      },
+      "inspiration": {
+        "link1": "https://community.articulate.com/e-learning-examples/storyline-2-information-security-game",
+        "link2": "https://community.articulate.com/e-learning-examples/virtual-office-security-tour"
+      }
+    },
+    {
+      "title": "Develop a Training Activity for Dog Walkers",
+      "audience": "New dog walkers, ages 16 and up",
+      "brief": "<p>The local animal shelter is looking to onboard new volunteer dog walkers. One issue that has come up repeatedly with volunteers is the need to reinforce good behavior for the dogs each walk to better prepare them for adoption.</p><p><b>Develop a training activity</b> to be included in a dog behaviour facilitator and volunteer handbook to help volunteer dog walkers learn to reinforce good behavior when approaching a kennel for a walk. To be used for new dog walkers of various ages, but no younger than 16 years of age. All dog walkers are physically fit enough for exercise and to handle all dog breeds.</p>",
+      "deliverables": {
+        "deliverable1": "Training activity document for instructors",
+        "deliverable2": "Short, portable learning aid for dog walkers to help them remember the rules/steps"
+      },
+      "inspiration": {
+        "link1": "http://www.humanesocietyhbg.org/media/pdfs/dogwalkingmanualrevised_208-10.pdf",
+        "link2": "https://www.youtube.com/watch?v=KXtr_yC4ZcA",
+        "link3": "https://www.youtube.com/watch?time_continue=3&v=08mZJ-uCvUk"
+      }
+    },
+    {
+      "title": "Develop a Training Aid for Checking your Oil",
+      "audience": "New drivers, ages 16 and up",
+      "brief": "<p>A new insurance startup is marketing aggressively towards parents of new drivers. As a part of their efforts, they want to develop an effective educational series on car maintenance for new drivers.</p><p><b>Develop a step-by-step aid</b> on how to check the oil level in your car. The end product should be something the new drivers can easily locate, read, and use. This will be given out as a physical item to new clients.</p>",
+      "deliverables": {
+        "deliverable1": "Portable aid for checking the oil level"
+      },
+      "inspiration": {
+        "link1": "https://www.youtube.com/watch?v=IXODi4XD4wQ",
+        "link2": "http://survival-mastery.com/diy/useful-tools/how-to-fix-a-flat-tire.html"
+      }
+    },
+    {
+      "title": "Develop a Simulation to Check for Counterfeit Bills",
+      "audience": "New Cashiers",
+      "brief": "<p>A local grocery store is looking to modernize their cashier onboarding. While they still believe in job-embedded and face-to-face training, there are some skills they'd like cashiers to get some extra practice with before they hit the store. You're helping to develop a series of elearning modules as a part of a blended training initiative on some essential skills.</p><p><b>Develop a simulation</b> as a part of newbie training to assess performance of grocery store cashiers in properly checking for counterfeit bills. The simulation should check for user understanding.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive simulation",
+        "deliverable2": "Bonus: Small, inconspicuous job aid to be placed at the cashier station"
+      },
+      "inspiration": {
+        "link1": "http://info.alleninteractions.com/bid/69687/The-Importance-of-Successful-e-Learning-Interface-Design",
+        "link2": "https://www.youtube.com/watch?v=sLMc5OFnQRs"
+      }
+    },
+    {
+      "title": "Develop an Interactive Map of a Fictional Heroine's Journey",
+      "audience": "Storybook tour guests",
+      "brief": "<p>A fiction-focused guided tour company has engaged you to help their guests to remember important plot points and their associations with real-world locations. Their Jane Austen tour in England is so popular that they want to branch out with a companion app that will provide some guidance.</p><p><b>Create an interactive map</b> of the journey of Elizabeth Bennet in Pride and Prejudice (or another Austen heroine).</p>",
+      "deliverables": {
+        "deliverable1": "Interactive map"
+      },
+      "inspiration": {
+        "link1": "http://www.designbysoap.co.uk/the-hobbit-bilbos-journey/",
+        "link2": "https://community.articulate.com/articles/interactive-maps-online-training",
+        "link3": "https://tympanus.net/codrops/2016/04/13/interactive-3d-mall-map/"
+      }
+    },
+    {
+      "title": "Develop an Interactive Map/Game of a Famous Restaurants",
+      "audience": "Tour guide employees",
+      "brief": "<p>Management at a foodie tour company want to improve their onboarding and training process for new and returning mployees. As a part of this initiative, they want to help employees internalize information about famous LA restaurants and their signature dishes.</p><p><b>Design an interactive of landmark eateries</b> (4 to 6) in Los Angeles, CA. The experience should help users check essential knowledge about each location. Map is part of larger onboarding pathway and should serve as a reference to drivers on why the eatery is important/historical/famous and their most famous dish.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive map/game",
+        "deliverable2": "Outline of larger onboarding pathway"
+      },
+      "inspiration": {
+        "link1": "http://www.alleninteractions.com/expedia",
+        "link2": "https://community.articulate.com/articles/interactive-maps-online-training",
+        "link3": "http://dc.racked.com/maps/best-vintage-and-consignment-stores-washington-dc"
+      }
+    },
+    {
+      "title": "Develop an Infographic around Instructional Design Salaries",
+      "audience": "Instructional Design Newbies",
+      "brief": "<p>As a part of your own research into going freelance, you've collected information on ID salaries in several different places. You've decided that you want to kill two birds with one stone by creating a portfolio piece that will share out this information.</p><p><b>Design an interactive/static infographic</b> that informs instructional designers in your state/province/county how much the average instructional designer/developer earns. The user should be able to use this as a reference when job hunting/setting freelance rates.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive infographic"
+      },
+      "inspiration": {
+        "link1": "http://thenuschool.com/how-much/#/start",
+        "link2": "http://howmuchdoesawebsiteco.st/",
+        "link3": "https://www.bloc.io/coding-bootcamp-comparison"
+      }
+    },
+    {
+      "title": "Curate/Design a Course on Finding Your First Apartment",
+      "audience": "First time apartment renters, ages 18 through 25",
+      "brief": "<p>You work on user-focused education initiatives at a new apartment locator startup. The latest project is a content marketing strategy for the app, focused on helping newbie apartment finders to land a great first apartment.</p><p><b>Curate/Design a subscription learning course</b> on how to find your first apartment. To be displayed as a series of emails and posts on the website.</p>",
+      "deliverables": {
+        "deliverable1": "Course design/topic plan",
+        "deliverable2": "Subscription learning/Email mock up"
+      },
+      "inspiration": {
+        "link1": "https://www.nerdwallet.com/blog/loans/student-loans/my-first-apartment/",
+        "link2": "https://www.forrent.com/blog/apt_life/apartment-amenities-infographic/"
+      }
+    },
+    {
+      "title": "Design an Apartment Move-In Checklist",
+      "audience": "First time apartment renters, ages 18 through 25",
+      "brief": "<p>You work on user-focused education initiatives at a new apartment locator startup. The latest project is a content marketing strategy for the app, focused on helping newbie apartment finders to land a great first apartment.</p><p><b>Design a checklist of things to document upon move-in to a new apartment.</b> A user should be able to print the checklist and use it as a reference when filling out their move-in form.</p>",
+      "deliverables": {
+        "deliverable1": "Printable checklist",
+        "deliverable2": "Bonus: Web checklist that can be checked off"
+      },
+      "inspiration": {
+        "link1": "https://prometheusreg.com/blog/post/first-apartment-essentials-checklist-new-apartment-essentials",
+        "link2": "http://www.myfirstapartment.com/2013/05/things-you-need-for-your-first-apartment/"
+      }
+    },
+    {
+      "title": "Redesign a Water Quality Report",
+      "audience": "City residents",
+      "brief": "<p>City government officials have jumped on the open government bandwagon and that means redesigns everywhere! As a part of a city government initiative at better information design and more transparency, they want to redesign several reports that they send residents to make them interesting and informative.</p><p><b>Redesign a water quality report</b> to be readable and meaningful to residents.</p>",
+      "deliverables": {
+        "deliverable1": "Redesigned report mockup",
+        "deliverable2": "Redesign documentation to explain your design choices"
+      },
+      "inspiration": {
+        "link1": "http://extension.psu.edu/natural-resources/water/drinking-water/water-testing/testing/how-to-interpret-a-water-analysis-report",
+        "link2": "http://www.waterandhealth.org/read-interpret-water-utilitys-drinking-water-quality-report-the-consumer-confidence-report/"
+      }
+    },
+    {
+      "title": "Create an Instructional Systems Proposal for User Generated Content",
+      "audience": "Supervisors and C-Suite Executives",
+      "brief": "<p>Your organization is looking to take advantage of user generated content to allow employees to learn from each other, but none of your current systems (intranet, LMS, etc) allow for this kind of sharing.</p><p><b>Create a proposal</b> exploring the pros, cons, and needs of an instructional system/process that would allow users to create and share learning content with each other.</p>",
+      "deliverables": {
+        "deliverable1": "Proposal/Exploration for integrating a system/process to host user generated content"
+      },
+      "inspiration": {
+        "link1": "https://en.wikipedia.org/wiki/User-generated_content",
+        "link2": "http://www.indexwp.com/user-generated-content-site-in-wordpress/"
+
+      }
+    },
+    {
+      "title": "Create an Instructional Systems Proposal for Integrating xAPI",
+      "audience": "Supervisors and C-Suite Executives",
+      "brief": "<p>Your organization is looking to take advantage of the analtyics the the xAPI can provide. Thus far, you've been using SCORM in everything.</p><p><b>Create a proposal</b> exploring the pros, cons, and needs of an using xAPI to track learners in your LMS and elearning interactives and beyond.</p>",
+      "deliverables": {
+        "deliverable1": "Proposal/Exploration for switching from SCORM to xAPI"
+      },
+      "inspiration": {
+        "link1": "http://adlnet.github.io/SCORM-to-TLA-Roadmap/",
+        "link2": "https://www.learningsolutionsmag.com/articles/1582/establish-an-xapi-infrastructure-guide-to-gain-sponsorship--it-support"
+      }
+    },
+    {
+      "title": "Create User Personas and Stress Cases for Current Content System",
+      "audience": "Instructional designers",
+      "brief": "<p>Your team creates learning content for a big box hardware/tool store. Some of your learning content focuses on home improvement and repair. After a recent book club read, you've noticed that your current design doesn't serve users who may have recently had a home disaster to make important repairs.</p><p><b>Write learner personas</b> that identify the stress cases for learners trying to find information about home repairs on your education portal.</p>",
+      "deliverables": {
+        "deliverable1": "2 to 3 user personas"
+      },
+      "inspiration": {
+        "link1": "http://www.romanpichler.com/blog/persona-template-for-agile-product-management/",
+        "link2": "http://www.diverseui.com/",
+        "link3": "https://www.usability.gov/how-to-and-tools/methods/personas.html",
+        "link4": "https://npr.design/designing-news-products-with-empathy-50-stress-cases-to-consider-61f068a939eb#.34t0qyw0i"
+      }
+    },
+    {
+      "title": "Create an Interactive Smoothie Making Experience",
+      "audience": "Gym goers",
+      "brief": "<p>The gym you work for has installed a new smoothie bar for customers and they want to make sure it gets some use. Part of the big push will be an app to teach users how to make a rejuvenating smoothie after a tough workout.</p><p><b>Create an interactive experience</b> that allows gym goers to learn about nutrition through smoothie making. The game should teach users the nutritional value of the ingredients.</p>",
+      "deliverables": {
+        "deliverable1": "Smoothie Maker Game"
+      },
+      "inspiration": {
+        "link1": "http://www.girlsgogames.com/game/saras_cooking_class_fruit_smoothie",
+        "link2": "http://www.jambajuice.com/menu-and-nutrition/menu/smoothies/whole-food-nutrition",
+        "link3": "http://www.cookinggames.com/smoothie-maker.html"
+      }
+    },
+    {
+      "title": "Create an Interactive Conversation to choose a Elearning Tool",
+      "audience": "Fellow instructional design newbies",
+      "brief": "<p>You need to create an elearning module for the fellow instructional designers in your class. One thing that you all are interested in and excited about is making elearning, but there are several concerns among students about which product to choose, costs, job relevance and more.</p><p><b>Design an interactive conversation</b> that will help your classmates choose an elearning tool. The choice system should take price, computer system, and technical ability into account.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive Conversation/or mockup and script"
+      },
+      "inspiration": {
+        "link1": "https://community.articulate.com/discussions/building-better-courses/example-i-did-based-on-the-interactive-conversation-models-jellyvision-uses",
+        "link2": "http://www.jellyvision.com/work/onboarding-demo/",
+        "link3": "http://www.jellyvision.com/work/microsoft/"
+      }
+    },
+    {
+      "title": "Turn an Employee Manual into a Learning Experience",
+      "audience": "New employees",
+      "brief": "<p>You've been given the employee manual. Management knows that most employees don't read this, but some of the content is important.</p><p>Review the manual and <b>Design an engaging learning experience</b> that will help effectively onboard new employees.</p>",
+      "deliverables": {
+        "deliverable1": "Microlearning: drip campaign email plan and mockups, or more traditional elearning course"
+      },
+      "inspiration": {
+        "link1": "http://media.steampowered.com/apps/valve/Valve_NewEmployeeHandbook.pdf"
+      }
+    }]
+}
