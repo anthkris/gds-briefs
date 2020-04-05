@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Switch, BrowserRouter as Router } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 import SkipNav from 'react-skip-nav';
 import Nav from './components/Nav';
 import Header from './components/Header';
@@ -44,6 +45,9 @@ class App extends Component {
          id='skip-nav'
          text='skip to main content'
          targetDomId='main-content'/>
+         <Helmet>
+          <title>Go Design Something</title>
+        </Helmet>
         <Nav />
         <Header />
         <Layout>
