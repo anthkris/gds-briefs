@@ -1,5 +1,45 @@
 {
-    "briefs": [{
+    "briefs": [
+      {
+      "title": "Teach Someone to Play a Tabletop RPG",
+      "audience": "Diverse Adults",
+      "brief": "<p>You've got a number of friends who are interested in learning how to play a tabletop role playing game (RPG) like Dungeons and Dragons. They've never experienced a tabletop game so you want to help them learn the ropes. You want them to feel comfortable before their first session.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive, online game simulation to teach your friends how to play a tabletop RPG (you decide which RPG)"
+      },
+      "inspiration": {
+        "link1": ["https://www.polygon.com/2018/5/26/17153274/dnd-how-to-play-dungeons-dragons-5e-guide-spells-dice-character-sheets-dm", "Polygon: A beginner’s guide to playing Dungeons and Dragons"],
+        "link2": ["https://dnd.wizards.com/articles/features/basicrules", "Basic Rules for Dungeons & Dragons"],
+        "link3": ["https://www.youtube.com/watch?v=jT3FRzEJDp8", "How to Play D&D part 1 - A Sample Game Session"]
+      }
+      },
+      {
+      "title": "Help Managers Understand the Implications of a New Ordinance",
+      "audience": "Retail Coffee Shop Frontline Managers",
+      "brief": "<p>There's a new city ordinance that will affect the managers and employees you support. Under the new law, they will need to give employees advanced notice of schedule changes. If they don't follow the law, the business could be fined, not to mention the bad publicity. The clients have said that they can't afford for managers to be gone for long, so the training needs to be as short as possible.</p><p>You need to create a learning experience to help the managers understand the new ordinance and what it means for how they have to handle employee schedules.</p>",
+      "deliverables": {
+        "deliverable1": "20 minutes or less online course for managers."
+      },
+      "inspiration": {
+        "link1": ["https://www.epi.org/publication/fair-workweek-laws-help-more-than-1-8-million-workers/", "‘Fair workweek’ laws help more than 1.8 million workers"],
+        "link2": ["https://cookcountyrecord.com/stories/512440146-fair-workweek-laws-coming-soon-to-illinois-employers-should-take-note", "'Fair Workweek' laws coming soon to Illinois. Employers should take note"]
+      }
+      },
+      {
+      "title": "Help Managers Support Deaf Employees",
+      "audience": "Corporate Managers",
+      "brief": "<p>You are supporting managers at your organization. May is global accessibility awareness month. While there aren't any specific complaints, your team wants to help mamangers be more inclusive and supportive of differently abled employees. As one part of this initiative, you want to give your mid-level managers some tools to better support their deaf employees in contributing to meetings and communicating with team members.</p><p>Managers are busy and this probably isn't at the top of their lists. Before you can introduce the tools to support, you need to help managers care about the issue.</p>",
+      "deliverables": {
+        "deliverable1": "Interactive story to help managers care about supporting deaf employees",
+        "deliverable2": "Short (15 minutes or less) guide to help managers make meetings and communication more inclusive for deaf employees.",
+      },
+      "inspiration": {
+        "link1": ["https://deafingov.org/Resources/Documents/Etiquette-for-Co.pdf", "Deaf In Government: Etiquette for Co-Workers of Deaf/Hard-of-Hearing Employees"],
+        "link2": ["https://www.shrm.org/ResourcesAndTools/hr-topics/behavioral-competencies/global-and-cultural-effectiveness/Pages/Accommodations-Deaf-Employees.aspx", "Simple Accommodations for Deaf Employees You May Have Never Considered"],
+        "link3": ["https://deafnav.com.au/understand/supporting-deaf-hoh-people-in-your-life/in-the-workplace/managing-deaf-and-hard-of-hearing-people", "Managing Deaf and Hard of Hearing People"]
+      }
+      },
+      {
       "title": "Curate/Create a Course on Working from Home",
       "audience": "Knowledge Workers affected by Coronavirus",
       "brief": "<p>Like many organizations in Winter/Spring 2020, your organization was affected by COVID-19. Many people, used to coming into the office everyday, now need to work from home while their spouses, partners, children, and other residents are also home all day. There's a lot of concern and stress but also a need from the business to keep working.</p><p><b>Design a learning experience</b> to help knowledge workers of various tenures and levels work through how they can effectively work from home during this time.</p>",
@@ -7,9 +47,9 @@
         "deliverable1": "Learning experience about working from home (you decide what form it takes)"
       },
       "inspiration": {
-        "link1": "https://tmyd.mykajabi.com/howtoworkfromhome",
-        "link2": "https://learning.linkedin.com/blog/productivity-tips/new-to-working-remotely--these-resources-can-help",
-        "link3": "https://www.harvardbusiness.org/resources-effectively-lead-amid-covid-19/"
+        "link1": ["https://tmyd.mykajabi.com/howtoworkfromhome", "How to Work from Home"],
+        "link2": ["https://learning.linkedin.com/blog/productivity-tips/new-to-working-remotely--these-resources-can-help", "LinkedIn Learning: New to Working Remotely? These Resources can Help"],
+        "link3": ["https://www.harvardbusiness.org/resources-effectively-lead-amid-covid-19/", "Harvard Business Review: Resources to Lead Effectively Amid COVID-19"]
       }
     },
     {
@@ -20,8 +60,8 @@
         "deliverable1": "DLSR Camera Simulation"
       },
       "inspiration": {
-        "link1": "http://photography-mapped.com/interact.html",
-        "link2": "http://camerasim.com/apps/original-camerasim/web//"
+        "link1": ["http://photography-mapped.com/interact.html", "Photography Mapped Interactive"],
+        "link2": ["http://camerasim.com/apps/original-camerasim/web/", "Original Camera Sim"]
       }
     },
     {
@@ -33,8 +73,8 @@
         "deliverable2": "One pager training aid on using and updating the template"
       },
       "inspiration": {
-        "link1": "https://codemyui.com/category/accordion-tabs/",
-        "link2": "https://community.articulate.com/download/storyline-2-circular-accordion"
+        "link1": ["https://codemyui.com/category/accordion-tabs/", "Accordion Tabs"],
+        "link2": ["https://community.articulate.com/download/storyline-2-circular-accordion", "Elearning Heroes: Storyline 2 Circular Accordion"]
       }
     },
     {
@@ -46,9 +86,9 @@
         "deliverable2": "Onboarding series topic plan with schedule for email campaign"
       },
       "inspiration": {
-        "link1": "https://elearningindustry.com/30-great-onboarding-elearning-resources",
-        "link2": "http://thenuschool.com/onboarding-clients/",
-        "link3": "http://www.goodemailcopy.com/"
+        "link1": ["https://elearningindustry.com/30-great-onboarding-elearning-resources", "30 Great Onboarding Elearning Resources"],
+        "link2": ["http://thenuschool.com/onboarding-clients/", "Onboarding Clients"],
+        "link3": ["http://www.goodemailcopy.com/", "Good Email Copy"]
       }
     },
     {
@@ -60,9 +100,8 @@
         "deliverable2": "Documentation on video template use and updating"
       },
       "inspiration": {
-        "link1": "https://www.youtube.com/watch?v=qyGK6rBfmnY",
-        "link2": "https://www.championenergyservices.com/my-account/how-to-read-your-bill/",
-        "link3": "http://www.jellyvision.com/work/jea/"
+        "link1": ["https://www.youtube.com/watch?v=qyGK6rBfmnY", "Understanding Your U-verse Bill"],
+        "link2": ["https://www.championenergyservices.com/my-account/how-to-read-your-bill/", "How to Read your Bill"]
       }
     },
     {
@@ -73,8 +112,8 @@
         "deliverable1": "Interactive game/simulation"
       },
       "inspiration": {
-        "link1": "https://community.articulate.com/e-learning-examples/storyline-2-information-security-game",
-        "link2": "https://community.articulate.com/e-learning-examples/virtual-office-security-tour"
+        "link1": ["https://community.articulate.com/e-learning-examples/storyline-2-information-security-game", "Elearning Heroes: Information Security Game"],
+        "link2": ["https://community.articulate.com/e-learning-examples/virtual-office-security-tour","Elearning Heroes: Virtual Office Security Tour"]
       }
     },
     {
@@ -86,9 +125,9 @@
         "deliverable2": "Short, portable learning aid for dog walkers to help them remember the rules/steps"
       },
       "inspiration": {
-        "link1": "http://www.humanesocietyhbg.org/media/pdfs/dogwalkingmanualrevised_208-10.pdf",
-        "link2": "https://www.youtube.com/watch?v=KXtr_yC4ZcA",
-        "link3": "https://www.youtube.com/watch?time_continue=3&v=08mZJ-uCvUk"
+        "link1": ["http://www.humanesocietyhbg.org/media/pdfs/dogwalkingmanualrevised_208-10.pdf", "Humance Society: Dog Walking Manual"],
+        "link2": ["https://www.youtube.com/watch?v=KXtr_yC4ZcA", "Removing a Dog from Its Kennel, Part 1"],
+        "link3": ["https://www.youtube.com/watch?time_continue=3&v=08mZJ-uCvUk", "Removing a Dog from Its Kennel, Part 2"]
       }
     },
     {
@@ -99,8 +138,8 @@
         "deliverable1": "Portable aid for checking the oil level"
       },
       "inspiration": {
-        "link1": "https://www.youtube.com/watch?v=IXODi4XD4wQ",
-        "link2": "http://survival-mastery.com/diy/useful-tools/how-to-fix-a-flat-tire.html"
+        "link1": ["https://www.youtube.com/watch?v=IXODi4XD4wQ", "Girls Auto Clinic: Checking Oil"]
+        "link2": ["http://survival-mastery.com/diy/useful-tools/how-to-fix-a-flat-tire.html", "How to Fix a Flat Tire"]
       }
     },
     {
@@ -112,8 +151,8 @@
         "deliverable2": "Bonus: Small, inconspicuous job aid to be placed at the cashier station"
       },
       "inspiration": {
-        "link1": "http://info.alleninteractions.com/bid/69687/The-Importance-of-Successful-e-Learning-Interface-Design",
-        "link2": "https://www.youtube.com/watch?v=sLMc5OFnQRs"
+        "link1": ["http://info.alleninteractions.com/bid/69687/The-Importance-of-Successful-e-Learning-Interface-Design", "Allen Interactions: The Importance of Successful eLeanring Interface Design"],
+        "link2": ["https://www.youtube.com/watch?v=sLMc5OFnQRs", "TEDEd: How to spot a counterfeit bill"]
       }
     },
     {
@@ -124,9 +163,9 @@
         "deliverable1": "Interactive map"
       },
       "inspiration": {
-        "link1": "http://www.designbysoap.co.uk/the-hobbit-bilbos-journey/",
-        "link2": "https://community.articulate.com/articles/interactive-maps-online-training",
-        "link3": "https://tympanus.net/codrops/2016/04/13/interactive-3d-mall-map/"
+        "link1": ["http://www.designbysoap.co.uk/the-hobbit-bilbos-journey/", "Design by Soap: The Hobbit - Bilbo's Journey"],
+        "link2": ["https://community.articulate.com/articles/interactive-maps-online-training", "Elearning Heroes: Interactive Maps Online Training"],
+        "link3": ["https://tympanus.net/codrops/2016/04/13/interactive-3d-mall-map/", "Interactive 3D Mall Map"]
       }
     },
     {
@@ -138,9 +177,9 @@
         "deliverable2": "Outline of larger onboarding pathway"
       },
       "inspiration": {
-        "link1": "http://www.alleninteractions.com/expedia",
-        "link2": "https://community.articulate.com/articles/interactive-maps-online-training",
-        "link3": "http://dc.racked.com/maps/best-vintage-and-consignment-stores-washington-dc"
+        "link1": ["http://www.alleninteractions.com/expedia", "Allen Interactions: Expedia Project"],
+        "link2": ["https://community.articulate.com/articles/interactive-maps-online-training", "Elearning Heroes: Interactive Maps Online Training"],
+        "link3": ["http://dc.racked.com/maps/best-vintage-and-consignment-stores-washington-dc", "Best Vintage and Consignment Stores in Washington D.C."]
       }
     },
     {
@@ -151,9 +190,9 @@
         "deliverable1": "Interactive infographic"
       },
       "inspiration": {
-        "link1": "http://thenuschool.com/how-much/#/start",
-        "link2": "http://howmuchdoesawebsiteco.st/",
-        "link3": "https://www.bloc.io/coding-bootcamp-comparison"
+        "link1": ["http://thenuschool.com/how-much/#/start", "How Much Should I Charge?"],
+        "link2": ["http://howmuchdoesawebsiteco.st/", "How Much does a Website Cost?"],
+        "link3": ["https://www.bloc.io/coding-bootcamp-comparison", "Coding Bootcamp Comparison"]
       }
     },
     {
@@ -165,8 +204,8 @@
         "deliverable2": "Subscription learning/Email mock up"
       },
       "inspiration": {
-        "link1": "https://www.nerdwallet.com/blog/loans/student-loans/my-first-apartment/",
-        "link2": "https://www.forrent.com/blog/apt_life/apartment-amenities-infographic/"
+        "link1": ["https://www.nerdwallet.com/blog/loans/student-loans/my-first-apartment/", "Nerd Wallet: My First Apartment"],
+        "link2": ["https://www.forrent.com/blog/apt_life/apartment-amenities-infographic/", "ForRent: Apartment Amenities Infographic"]
       }
     },
     {
@@ -178,8 +217,8 @@
         "deliverable2": "Bonus: Web checklist that can be checked off"
       },
       "inspiration": {
-        "link1": "https://prometheusreg.com/blog/post/first-apartment-essentials-checklist-new-apartment-essentials",
-        "link2": "http://www.myfirstapartment.com/2013/05/things-you-need-for-your-first-apartment/"
+        "link1": ["https://prometheusreg.com/blog/post/first-apartment-essentials-checklist-new-apartment-essentials", "First Apartment Essentials Checklist"],
+        "link2": ["http://www.myfirstapartment.com/2013/05/things-you-need-for-your-first-apartment/", "Things You Need for Your First Apartment"]
       }
     },
     {
@@ -191,8 +230,8 @@
         "deliverable2": "Redesign documentation to explain your design choices"
       },
       "inspiration": {
-        "link1": "http://extension.psu.edu/natural-resources/water/drinking-water/water-testing/testing/how-to-interpret-a-water-analysis-report",
-        "link2": "http://www.waterandhealth.org/read-interpret-water-utilitys-drinking-water-quality-report-the-consumer-confidence-report/"
+        "link1": ["http://extension.psu.edu/natural-resources/water/drinking-water/water-testing/testing/how-to-interpret-a-water-analysis-report", "How to Interpret a Water Analysis Report"],
+        "link2": ["http://www.waterandhealth.org/read-interpret-water-utilitys-drinking-water-quality-report-the-consumer-confidence-report/", "How to Read and Interpret your Water Utility's Driking Water Quality Report"]
       }
     },
     {
@@ -203,8 +242,8 @@
         "deliverable1": "Proposal/Exploration for integrating a system/process to host user generated content"
       },
       "inspiration": {
-        "link1": "https://en.wikipedia.org/wiki/User-generated_content",
-        "link2": "http://www.indexwp.com/user-generated-content-site-in-wordpress/"
+        "link1": ["https://en.wikipedia.org/wiki/User-generated_content", "Wikipedia: User-Generated Content"],
+        "link2": ["http://www.indexwp.com/user-generated-content-site-in-wordpress/", "User-Generated Content in Wordpress"]
 
       }
     },
@@ -216,8 +255,8 @@
         "deliverable1": "Proposal/Exploration for switching from SCORM to xAPI"
       },
       "inspiration": {
-        "link1": "http://adlnet.github.io/SCORM-to-TLA-Roadmap/",
-        "link2": "https://www.learningsolutionsmag.com/articles/1582/establish-an-xapi-infrastructure-guide-to-gain-sponsorship--it-support"
+        "link1": ["http://adlnet.github.io/SCORM-to-TLA-Roadmap/", "SCORM to TLA Roadmap"],
+        "link2": ["https://www.learningsolutionsmag.com/articles/1582/establish-an-xapi-infrastructure-guide-to-gain-sponsorship--it-support", "Establish an xAPI Infrastructure Guide"]
       }
     },
     {
@@ -228,10 +267,10 @@
         "deliverable1": "2 to 3 user personas"
       },
       "inspiration": {
-        "link1": "http://www.romanpichler.com/blog/persona-template-for-agile-product-management/",
-        "link2": "http://www.diverseui.com/",
-        "link3": "https://www.usability.gov/how-to-and-tools/methods/personas.html",
-        "link4": "https://npr.design/designing-news-products-with-empathy-50-stress-cases-to-consider-61f068a939eb#.34t0qyw0i"
+        "link1": ["http://www.romanpichler.com/blog/persona-template-for-agile-product-management/", "Persona Template for Agile Product Management"],
+        "link2": ["http://www.diverseui.com/", "Diverse UI"],
+        "link3": ["https://www.usability.gov/how-to-and-tools/methods/personas.html", "Usability.gov: Personas"],
+        "link4": ["https://npr.design/designing-news-products-with-empathy-50-stress-cases-to-consider-61f068a939eb#.34t0qyw0i", "NPR: Designing News Products with Empathy"]
       }
     },
     {
@@ -242,9 +281,9 @@
         "deliverable1": "Smoothie Maker Game"
       },
       "inspiration": {
-        "link1": "http://www.girlsgogames.com/game/saras_cooking_class_fruit_smoothie",
-        "link2": "http://www.jambajuice.com/menu-and-nutrition/menu/smoothies/whole-food-nutrition",
-        "link3": "http://www.cookinggames.com/smoothie-maker.html"
+        "link1": ["http://www.girlsgogames.com/game/saras_cooking_class_fruit_smoothie","Sara's Cooking Class: Fruit Smoothie"],
+        "link2": ["http://www.jambajuice.com/menu-and-nutrition/menu/smoothies/whole-food-nutrition", "Jamba Juice on Smoothies"],
+        "link3": ["http://www.cookinggames.com/smoothie-maker.html", "Smoother Maker Game"]
       }
     },
     {
@@ -255,9 +294,9 @@
         "deliverable1": "Interactive Conversation/or mockup and script"
       },
       "inspiration": {
-        "link1": "https://community.articulate.com/discussions/building-better-courses/example-i-did-based-on-the-interactive-conversation-models-jellyvision-uses",
-        "link2": "http://www.jellyvision.com/work/onboarding-demo/",
-        "link3": "http://www.jellyvision.com/work/microsoft/"
+        "link1": ["https://community.articulate.com/discussions/building-better-courses/example-i-did-based-on-the-interactive-conversation-models-jellyvision-uses", "Articulate community Interaction Conversation Example"],
+        "link2": ["https://www.youtube.com/watch?v=7sJoqRS4AMM", "Jellyvision COVID-19 Video"],
+        "link3": ["https://web.archive.org/web/20151016185609/http://www.jellyvision.com/work/microsoft/", "Jellyvision Find the Right Computer Interactive (cached, not working)"]
       }
     },
     {
@@ -268,7 +307,7 @@
         "deliverable1": "Microlearning: drip campaign email plan and mockups, or more traditional elearning course"
       },
       "inspiration": {
-        "link1": "http://media.steampowered.com/apps/valve/Valve_NewEmployeeHandbook.pdf"
+        "link1": ["http://media.steampowered.com/apps/valve/Valve_NewEmployeeHandbook.pdf", "Valve New Employee Handbook"]
       }
     }]
 }

@@ -29,7 +29,7 @@ const Briefs = (props) => {
       <ul>
         {Object.values(props.brief.inspiration).map((link, i) => {
            // Return the element. Also pass key
-           return (<li key={i}><a href={link}>{link}</a></li>)
+           return (<li key={i}><a href={link[0]}>{link[1]}</a></li>)
         })}
       </ul>
     </div>
